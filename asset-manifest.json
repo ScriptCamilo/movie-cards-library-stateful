@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trybe-movie-cards-library-stateful/static/css/main.b23d236f.chunk.css",
+    "main.js": "/trybe-movie-cards-library-stateful/static/js/main.0afc3680.chunk.js",
+    "main.js.map": "/trybe-movie-cards-library-stateful/static/js/main.0afc3680.chunk.js.map",
+    "runtime-main.js": "/trybe-movie-cards-library-stateful/static/js/runtime-main.7db1a83a.js",
+    "runtime-main.js.map": "/trybe-movie-cards-library-stateful/static/js/runtime-main.7db1a83a.js.map",
+    "static/js/2.e82e50c0.chunk.js": "/trybe-movie-cards-library-stateful/static/js/2.e82e50c0.chunk.js",
+    "static/js/2.e82e50c0.chunk.js.map": "/trybe-movie-cards-library-stateful/static/js/2.e82e50c0.chunk.js.map",
+    "static/js/3.7c30625d.chunk.js": "/trybe-movie-cards-library-stateful/static/js/3.7c30625d.chunk.js",
+    "static/js/3.7c30625d.chunk.js.map": "/trybe-movie-cards-library-stateful/static/js/3.7c30625d.chunk.js.map",
+    "index.html": "/trybe-movie-cards-library-stateful/index.html",
+    "static/css/main.b23d236f.chunk.css.map": "/trybe-movie-cards-library-stateful/static/css/main.b23d236f.chunk.css.map",
+    "static/js/2.e82e50c0.chunk.js.LICENSE.txt": "/trybe-movie-cards-library-stateful/static/js/2.e82e50c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7db1a83a.js",
+    "static/js/2.e82e50c0.chunk.js",
+    "static/css/main.b23d236f.chunk.css",
+    "static/js/main.0afc3680.chunk.js"
+  ]
+}
